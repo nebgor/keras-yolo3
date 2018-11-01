@@ -1,0 +1,13 @@
+../rummy-data-backup/convert_YOLO_to_VOC/images/141.jpg 86,65,338,382,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/142.jpg 124,99,343,357,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/143.jpg 104,85,244,270,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/144.jpg 83,-3,413,335,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/145.jpg 205,103,526,439,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/146.jpg -20,59,459,540,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/147.jpg 169,142,542,468,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/148.jpg 176,112,437,350,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/149.jpg 70,27,372,323,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/150.jpg 116,96,305,326,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/151.jpg 159,132,455,352,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/152.jpg 162,177,424,439,20
+../rummy-data-backup/convert_YOLO_to_VOC/images/153.jpg 125,104,390,357,20
